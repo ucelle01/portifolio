@@ -87,7 +87,7 @@ body {
     font-family: var(--fonte-secundaria);
     font-weight: 600;
 }
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     /* background-color: var(--cor-hover); */
     box-shadow: 0px 0px 10px var(--cor-terciaria);
 }
